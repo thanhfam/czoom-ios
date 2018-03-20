@@ -314,7 +314,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-CZoom/Pods-CZoom-resources.sh",
+				"${SRCROOT}/CZoom/Pods/Target Support Files/Pods-CZoom/Pods-CZoom-resources.sh",
 				"${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -323,7 +323,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CZoom/Pods-CZoom-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/CZoom/Pods/Target Support Files/Pods-CZoom/Pods-CZoom-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		617BA9DC28A49688DB3B2E81 /* [CP] Check Pods Manifest.lock */ = {
@@ -350,7 +350,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-CZoom/Pods-CZoom-frameworks.sh",
+				"${SRCROOT}/CZoom/Pods/Target Support Files/Pods-CZoom/Pods-CZoom-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 				"${BUILT_PRODUCTS_DIR}/Alamofire-SwiftyJSON/Alamofire_SwiftyJSON.framework",
 				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
@@ -389,7 +389,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CZoom/Pods-CZoom-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/CZoom/Pods/Target Support Files/Pods-CZoom/Pods-CZoom-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
