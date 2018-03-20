@@ -60,7 +60,6 @@
 		6F181DFB201F53E1007DE5FB /* RateUsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RateUsController.swift; sourceTree = "<group>"; };
 		6F181DFD201F553A007DE5FB /* RateMyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RateMyApp.swift; sourceTree = "<group>"; };
 		6F181DFF201F75CC007DE5FB /* MainHome.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainHome.swift; sourceTree = "<group>"; };
-		6F181E01201F75E6007DE5FB /* CZoom-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "CZoom-Bridging-Header.h"; path = "CZoom/Common/SWRevealViewController/CZoom-Bridging-Header.h"; sourceTree = SOURCE_ROOT; };
 		6F1B8330200FB68A0007322B /* PostReportUpload.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostReportUpload.swift; sourceTree = "<group>"; };
 		6F1EAF011FE8ADF6009C1DFC /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
 		6F1EAF031FE8B1A0009C1DFC /* UserSignIn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSignIn.swift; sourceTree = "<group>"; };
@@ -94,6 +93,7 @@
 		6FC837651FD9A139003C15C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6FC837681FD9A139003C15C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6FC8376A1FD9A139003C15C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6FCF9C4E2060EFB500A65177 /* CZoom-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CZoom-Bridging-Header.h"; sourceTree = "<group>"; };
 		6FD33184200E3F2B00208823 /* MediaPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaPicker.swift; sourceTree = "<group>"; };
 		6FDBB7EC1FE7AE500025FC6B /* NetworkActivityIndicatorManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkActivityIndicatorManager.swift; sourceTree = "<group>"; };
 		6FDBB7F51FE7B72F0025FC6B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
@@ -120,6 +120,7 @@
 			isa = PBXGroup;
 			children = (
 				6F1EF08F201F0D4B0008306E /* SWRevealViewController */,
+				6FCF9C4E2060EFB500A65177 /* CZoom-Bridging-Header.h */,
 				6FDBB7EC1FE7AE500025FC6B /* NetworkActivityIndicatorManager.swift */,
 				6F1EAF011FE8ADF6009C1DFC /* Functions.swift */,
 				6FE21A281FEA174300E490A9 /* MyViewController.swift */,
@@ -132,7 +133,6 @@
 			children = (
 				6F1EF090201F0D4B0008306E /* SWRevealViewController.h */,
 				6F1EF091201F0D4B0008306E /* SWRevealViewController.m */,
-				6F181E01201F75E6007DE5FB /* CZoom-Bridging-Header.h */,
 			);
 			name = SWRevealViewController;
 			path = ../../../SWRevealViewController;
