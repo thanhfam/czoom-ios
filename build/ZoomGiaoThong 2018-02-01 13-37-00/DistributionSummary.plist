@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ZoomGiaoThong.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>EDDE5CBD2B71D999802CEFAEA06FD74AA92D83B6</string>
+				<key>dateExpires</key>
+				<string>11/5/18</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EDDE5CBD2B71D999802CEFAEA06FD74AA92D83B6</string>
+						<key>dateExpires</key>
+						<string>11/5/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64UNHC4K3C</string>
+						<key>name</key>
+						<string>Thang Mai Van</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EDDE5CBD2B71D999802CEFAEA06FD74AA92D83B6</string>
+						<key>dateExpires</key>
+						<string>11/5/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire_SwiftyJSON.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64UNHC4K3C</string>
+						<key>name</key>
+						<string>Thang Mai Van</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EDDE5CBD2B71D999802CEFAEA06FD74AA92D83B6</string>
+						<key>dateExpires</key>
+						<string>11/5/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>Bolts.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64UNHC4K3C</string>
+						<key>name</key>
+						<string>Thang Mai Van</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EDDE5CBD2B71D999802CEFAEA06FD74AA92D83B6</string>
+						<key>dateExpires</key>
+						<string>11/5/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>Cache.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64UNHC4K3C</string>
+						<key>name</key>
+						<string>Thang Mai Van</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EDDE5CBD2B71D999802CEFAEA06FD74AA92D83B6</string>
+						<key>dateExpires</key>
+						<string>11/5/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>FBSDKCoreKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64UNHC4K3C</string>
+						<key>name</key>
+						<string>Thang Mai Van</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EDDE5CBD2B71D999802CEFAEA06FD74AA92D83B6</string>
+						<key>dateExpires</key>
+						<string>11/5/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>FBSDKLoginKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64UNHC4K3C</string>
+						<key>name</key>
+						<string>Thang Mai Van</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EDDE5CBD2B71D999802CEFAEA06FD74AA92D83B6</string>
+						<key>dateExpires</key>
+						<string>11/5/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>Hue.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64UNHC4K3C</string>
+						<key>name</key>
+						<string>Thang Mai Van</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EDDE5CBD2B71D999802CEFAEA06FD74AA92D83B6</string>
+						<key>dateExpires</key>
+						<string>11/5/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>Imaginary.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64UNHC4K3C</string>
+						<key>name</key>
+						<string>Thang Mai Van</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EDDE5CBD2B71D999802CEFAEA06FD74AA92D83B6</string>
+						<key>dateExpires</key>
+						<string>11/5/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>Lightbox.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64UNHC4K3C</string>
+						<key>name</key>
+						<string>Thang Mai Van</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EDDE5CBD2B71D999802CEFAEA06FD74AA92D83B6</string>
+						<key>dateExpires</key>
+						<string>11/5/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftyJSON.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64UNHC4K3C</string>
+						<key>name</key>
+						<string>Thang Mai Van</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>64UNHC4K3C.com.3tasia.zoomgiaothong</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>64UNHC4K3C</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>64UNHC4K3C.com.3tasia.zoomgiaothong</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ZoomGiaoThong.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9ff5f091-423e-4a13-94a0-0c5d8236cecd</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.3tasia.zoomgiaothong</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>64UNHC4K3C</string>
+				<key>name</key>
+				<string>Thang Mai Van</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

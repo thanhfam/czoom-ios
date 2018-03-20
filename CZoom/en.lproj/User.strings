@@ -1,0 +1,102 @@
+
+/* Class = "UIButton"; normalTitle = "Sign in with Facebook"; ObjectID = "0Vt-K6-koo"; */
+"0Vt-K6-koo.normalTitle" = "Sign in with Facebook";
+
+/* Class = "UIButton"; normalTitle = "Already a member ? Sign in here"; ObjectID = "1eA-SD-PmD"; */
+"1eA-SD-PmD.normalTitle" = "Already a member ? Sign in here";
+
+/* Class = "UILabel"; text = "Lăng Kính Giao Thông"; ObjectID = "4Dg-dt-Vzl"; */
+"4Dg-dt-Vzl.text" = "Lăng Kính Giao Thông";
+
+/* Class = "UITextField"; placeholder = "Enter mobile phone number"; ObjectID = "4og-Fx-bMx"; */
+"4og-Fx-bMx.placeholder" = "Enter mobile phone number";
+
+/* Class = "UILabel"; text = "Email (*)"; ObjectID = "5ao-BY-UfK"; */
+"5ao-BY-UfK.text" = "Email (*)";
+
+/* Class = "UILabel"; text = "Phone (*)"; ObjectID = "7DK-yc-1RI"; */
+"7DK-yc-1RI.text" = "Phone (*)";
+
+/* Class = "UITextField"; placeholder = "Enter new password"; ObjectID = "DfH-IK-hgr"; */
+"DfH-IK-hgr.placeholder" = "Enter new password";
+
+/* Class = "UIButton"; normalTitle = "Already a member ? Sign in here"; ObjectID = "GzV-9C-ceX"; */
+"GzV-9C-ceX.normalTitle" = "Already a member ? Sign in here";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "N5p-bX-qLH"; */
+"N5p-bX-qLH.placeholder" = "Enter name";
+
+/* Class = "UITextField"; placeholder = "Enter your new password again"; ObjectID = "NMi-F6-dPo"; */
+"NMi-F6-dPo.placeholder" = "Enter your new password again";
+
+/* Class = "UILabel"; text = "New password (*)"; ObjectID = "OEq-sA-amj"; */
+"OEq-sA-amj.text" = "New password (*)";
+
+/* Class = "UILabel"; text = "Password (*)"; ObjectID = "OOW-3P-sZG"; */
+"OOW-3P-sZG.text" = "Password (*)";
+
+/* Class = "UIViewController"; title = "Sign in"; ObjectID = "PZ3-Rb-mXZ"; */
+"PZ3-Rb-mXZ.title" = "Sign in";
+
+/* Class = "UITextField"; placeholder = "Enter password"; ObjectID = "PdK-0R-iFG"; */
+"PdK-0R-iFG.placeholder" = "Enter password";
+
+/* Class = "UITextField"; text = "12341234"; ObjectID = "PdK-0R-iFG"; */
+"PdK-0R-iFG.text" = "12341234";
+
+/* Class = "UILabel"; text = "Name (*)"; ObjectID = "RLc-g6-jV3"; */
+"RLc-g6-jV3.text" = "Name (*)";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "SgS-dF-JYP"; */
+"SgS-dF-JYP.normalTitle" = "Sign up";
+
+/* Class = "UITextField"; placeholder = "Enter password"; ObjectID = "VR9-dW-deF"; */
+"VR9-dW-deF.placeholder" = "Enter password";
+
+/* Class = "UILabel"; text = "Lăng Kính Giao Thông"; ObjectID = "ZE8-ad-U4A"; */
+"ZE8-ad-U4A.text" = "Lăng Kính Giao Thông";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "bFY-hr-ruO"; */
+"bFY-hr-ruO.normalTitle" = "Sign in";
+
+/* Class = "UILabel"; text = "Password (*)"; ObjectID = "cRe-Q4-ybn"; */
+"cRe-Q4-ybn.text" = "Password (*)";
+
+/* Class = "UIViewController"; title = "Sign up"; ObjectID = "eUd-lf-q8E"; */
+"eUd-lf-q8E.title" = "Sign up";
+
+/* Class = "UILabel"; text = "Password (*)"; ObjectID = "gby-rI-Ile"; */
+"gby-rI-Ile.text" = "Password (*)";
+
+/* Class = "UILabel"; text = "Lăng Kính Giao Thông"; ObjectID = "gda-QO-Rz0"; */
+"gda-QO-Rz0.text" = "Lăng Kính Giao Thông";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "m6C-4E-M7E"; */
+"m6C-4E-M7E.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Sign up with Email"; ObjectID = "ooB-sJ-ldX"; */
+"ooB-sJ-ldX.normalTitle" = "Sign up with Email";
+
+/* Class = "UILabel"; text = "Or"; ObjectID = "pSk-QU-SUA"; */
+"pSk-QU-SUA.text" = "Or";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "rxO-XL-Eg1"; */
+"rxO-XL-Eg1.placeholder" = "Enter email";
+
+/* Class = "UILabel"; text = "Confirm new password (*)"; ObjectID = "sbx-p1-Hg8"; */
+"sbx-p1-Hg8.text" = "Confirm new password (*)";
+
+/* Class = "UIButton"; normalTitle = "Don't have account ? Sign up here"; ObjectID = "t55-Z3-ovK"; */
+"t55-Z3-ovK.normalTitle" = "Don't have account ? Sign up here";
+
+/* Class = "UITextField"; placeholder = "Enter your username"; ObjectID = "viY-KF-5Em"; */
+"viY-KF-5Em.placeholder" = "Enter your username";
+
+/* Class = "UITextField"; text = "thanhfam99@ymail.com"; ObjectID = "viY-KF-5Em"; */
+"viY-KF-5Em.text" = "thanhfam99@ymail.com";
+
+/* Class = "UILabel"; text = "Username (*)"; ObjectID = "y7C-bu-qzU"; */
+"y7C-bu-qzU.text" = "Username (*)";
+
+/* Class = "UITextField"; placeholder = "Enter your current password"; ObjectID = "yE8-6P-Bp6"; */
+"yE8-6P-Bp6.placeholder" = "Enter your current password";

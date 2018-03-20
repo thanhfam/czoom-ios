@@ -1,0 +1,174 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0Xr-o7-Dax"; */
+"0Xr-o7-Dax.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "28b-ae-UYw"; */
+"28b-ae-UYw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2U2-Vc-Jk8"; */
+"2U2-Vc-Jk8.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Take an image"; ObjectID = "2be-kh-meY"; */
+"2be-kh-meY.normalTitle" = "Take an image";
+
+/* Class = "UIButton"; normalTitle = "Upload"; ObjectID = "4Ar-SC-shi"; */
+"4Ar-SC-shi.normalTitle" = "Upload";
+
+/* Class = "UITextField"; placeholder = "Leave your comment"; ObjectID = "6vO-eh-vpb"; */
+"6vO-eh-vpb.placeholder" = "Leave your comment";
+
+/* Class = "UINavigationItem"; title = "FAQs"; ObjectID = "79w-FV-bbY"; */
+"79w-FV-bbY.title" = "FAQs";
+
+/* Class = "UILabel"; text = "www.3tasia.net"; ObjectID = "AuU-hw-Wdc"; */
+"AuU-hw-Wdc.text" = "www.3tasia.net";
+
+/* Class = "UILabel"; text = "Lăng Kính Giao Thông"; ObjectID = "BG4-Xc-3bT"; */
+"BG4-Xc-3bT.text" = "Lăng Kính Giao Thông";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "C8H-Mm-9YG"; */
+"C8H-Mm-9YG.text" = "Label";
+
+/* Class = "UILabel"; text = "www.3tasia.net"; ObjectID = "DY4-53-MAx"; */
+"DY4-53-MAx.text" = "www.3tasia.net";
+
+/* Class = "UIButton"; normalTitle = "Take a video"; ObjectID = "IrB-e4-vpF"; */
+"IrB-e4-vpF.normalTitle" = "Take a video";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "J1t-oW-BT7"; */
+"J1t-oW-BT7.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jku-S6-CTP"; */
+"Jku-S6-CTP.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MJ6-FV-tse"; */
+"MJ6-FV-tse.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OGl-B2-2Tz"; */
+"OGl-B2-2Tz.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "View detail"; ObjectID = "PSB-yM-CgA"; */
+"PSB-yM-CgA.normalTitle" = "View detail";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QPq-Iu-wEf"; */
+"QPq-Iu-wEf.text" = "Label";
+
+/* Class = "UILabel"; text = "Comment (*)"; ObjectID = "QmF-yX-XqH"; */
+"QmF-yX-XqH.text" = "Comment (*)";
+
+/* Class = "UIButton"; normalTitle = "Image or Video"; ObjectID = "RoZ-JK-pdU"; */
+"RoZ-JK-pdU.normalTitle" = "Image or Video";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SPD-Px-1PA"; */
+"SPD-Px-1PA.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SRO-Tl-tDE"; */
+"SRO-Tl-tDE.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "TTL-5c-Dhl"; */
+"TTL-5c-Dhl.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UrJ-I8-w2f"; */
+"UrJ-I8-w2f.text" = "Label";
+
+/* Class = "UILabel"; text = "Powered by"; ObjectID = "UuF-NH-Z6s"; */
+"UuF-NH-Z6s.text" = "Powered by";
+
+/* Class = "UITextField"; placeholder = "Please provide some comment"; ObjectID = "VMp-YT-8OE"; */
+"VMp-YT-8OE.placeholder" = "Please provide some comment";
+
+/* Class = "UITextField"; text = "Comment"; ObjectID = "VMp-YT-8OE"; */
+"VMp-YT-8OE.text" = "Comment";
+
+/* Class = "UIButton"; normalTitle = "Import from library"; ObjectID = "Wx1-h9-PcF"; */
+"Wx1-h9-PcF.normalTitle" = "Import from library";
+
+/* Class = "UITabBarItem"; title = "Post"; ObjectID = "Y6s-eZ-uDl"; */
+"Y6s-eZ-uDl.title" = "Post";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Yby-37-cpQ"; */
+"Yby-37-cpQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZLw-Z3-cQo"; */
+"ZLw-Z3-cQo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "a5x-f3-QH2"; */
+"a5x-f3-QH2.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Mine"; ObjectID = "beA-PV-Ik4"; */
+"beA-PV-Ik4.title" = "Mine";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c00-w3-aTX"; */
+"c00-w3-aTX.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dnG-SK-bgl"; */
+"dnG-SK-bgl.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eCY-uC-W4d"; */
+"eCY-uC-W4d.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "f5W-IU-b8Q"; */
+"f5W-IU-b8Q.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Location of report"; ObjectID = "fAh-L1-Cn2"; */
+"fAh-L1-Cn2.placeholder" = "Location of report";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fRU-4a-Qxq"; */
+"fRU-4a-Qxq.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "All"; ObjectID = "hE7-PM-3fk"; */
+"hE7-PM-3fk.title" = "All";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kPx-PQ-2QH"; */
+"kPx-PQ-2QH.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "knQ-Lf-71T"; */
+"knQ-Lf-71T.text" = "Label";
+
+/* Class = "UILabel"; text = "Location (*)"; ObjectID = "kus-lL-ymY"; */
+"kus-lL-ymY.text" = "Location (*)";
+
+/* Class = "UILabel"; text = "Lăng Kính Giao Thông"; ObjectID = "lin-NW-N6L"; */
+"lin-NW-N6L.text" = "Lăng Kính Giao Thông";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lxO-LE-G0P"; */
+"lxO-LE-G0P.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lzO-EE-ExR"; */
+"lzO-EE-ExR.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mDw-on-d48"; */
+"mDw-on-d48.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n5W-CC-aOY"; */
+"n5W-CC-aOY.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pP2-iE-0eb"; */
+"pP2-iE-0eb.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "View detail"; ObjectID = "qIf-fc-EMQ"; */
+"qIf-fc-EMQ.normalTitle" = "View detail";
+
+/* Class = "UIButton"; normalTitle = "Like"; ObjectID = "qZx-YQ-37g"; */
+"qZx-YQ-37g.normalTitle" = "Like";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rWS-SD-l8R"; */
+"rWS-SD-l8R.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "unC-CC-ypg"; */
+"unC-CC-ypg.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uvI-Dw-Pmp"; */
+"uvI-Dw-Pmp.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Sign out"; ObjectID = "vg8-pZ-sW4"; */
+"vg8-pZ-sW4.normalTitle" = "Sign out";
+
+/* Class = "UILabel"; text = "Lăng Kính Giao Thông"; ObjectID = "wRP-xH-wNR"; */
+"wRP-xH-wNR.text" = "Lăng Kính Giao Thông";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xtp-hE-e8R"; */
+"xtp-hE-e8R.text" = "Label";
+
+/* Class = "UILabel"; text = "Powered by"; ObjectID = "y5V-Re-5kU"; */
+"y5V-Re-5kU.text" = "Powered by";

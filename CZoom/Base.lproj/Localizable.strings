@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Traffic Zoom
+
+  Created by Thanh Phạm on 12/18/17.
+  Copyright © 2017 3T Asia. All rights reserved.
+*/
+
+"Name is required" = "Name is required";
+"Password is required" = "Password is required";
+"Mobile phone number is required" = "Mobile phone number is required";
+"Email address is required" = "Email address is required";
+"Email address is not valid" = "Email address is not valid";
+"Username is required" = "Username is required";
+"Username is not a valid email" = "Username is not a valid email";
+
+"About us" = "About us";
+"How to" = "How to";
+"FAQs" = "FAQs";
+"Rate us" = "Rate us";
+"Sign out" = "Sign out";
+"Change password" = "Change password";
+"Edit profile" = "Edit profile";
+
+"All" = "All";
+"Mine" = "Mine";
+"Post" = "Post";

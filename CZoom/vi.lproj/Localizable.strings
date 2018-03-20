@@ -1,0 +1,95 @@
+/* 
+  Localizable.strings
+  Traffic Zoom
+
+  Created by Thanh Phạm on 12/18/17.
+  Copyright © 2017 3T Asia. All rights reserved.
+*/
+
+"Name is required" = "Tên không được bỏ trống";
+"Password is required" = "Mật khẩu không được bỏ trống";
+"Mobile phone number is required" = "Điện thoại di động không được bỏ trống";
+"Email address is required" = "Địa chỉ email không được bỏ trống";
+"Email address is not valid" = "Địa chỉ email không hợp lệ";
+"Username is required" = "Tên tài khoản không được bỏ trống";
+"Username is not a valid email" = "Tên tài khoản phải là email";
+
+"About us" = "Giới thiệu";
+"Gift" = "Quà tặng";
+"How to" = "Hướng dẫn";
+"FAQs" = "FAQs";
+"Rate us" = "Đánh giá";
+"Sign in" = "Đăng nghập";
+"Sign up" = "Đăng ký";
+"Sign out" = "Thoát";
+"Change password" = "Đổi mật khẩu";
+"Edit profile" = "Sửa thông tin";
+
+"All" = "Tất cả";
+"Mine" = "Của tôi";
+"Post" = "Đăng bài";
+
+"All reports" = "Tất cả các bài";
+"My reports" = "Bài của tôi";
+"Post a report" = "Đăng bài vi phạm";
+"Choose a category" = "Chọn một mục";
+"Pick a location" = "Chọn địa điểm";
+"Comment" = "Bình luận";
+"Like" = "Thích";
+"Unlike" = "Bỏ thích";
+"comment(s)" = "bình luận";
+"like(s)" = "thích";
+"Location" = "Địa điểm";
+"Upload" = "Tải lên";
+"Send" = "Gửi";
+"Save" = "Lưu";
+"Skip" = "Bỏ qua";
+
+"Leave your comment" = "Nhập bình luận";
+"Sent successfully. Your comment will be show after verifying!" = "Gửi thành công! Bình luận của bạn sẽ xuất hiện ở đây sau khi được duyệt!";
+"Upload successfully. Your report will appear after verifying!" = "Gửi thành công! Báo cáo của bạn sẽ xuất hiện sau khi được duyệt!";
+"Rate the app" = "Đánh giá ứng dụng";
+"If you found %@ useful, please take a moment to rate it" = "Nếu bạn thấy %@ hữu ích, hãy dành chút thời gian để đánh giá! Cảm ơn bạn!";
+"Rate it now" = "Đánh giá ngay";
+"Remind me later" = "Nhắc tôi sau";
+"Don't bother me again" = "Đừng làm phiền nữa";
+
+"OK" = "OK";
+"Cancel" = "Huỷ";
+"Alert" = "Cảnh báo";
+"Info" = "Thông báo";
+
+"Password is required!" = "Mật khẩu không được bỏ trống!";
+"New password is required!" = "Mật khẩu mới không được bỏ trống!";
+"Confirm new password is required!" = "Bạn phải xác nhận mật khẩu mới!";
+"Your password has been changed successfully!" = "Mật khẩu đã được đổi thành công!";
+"New password is the same with password!" = "Mật khẩu mới phải khác mật khẩu cũ!";
+"Confirm new password is not the same with new password!" = "Mật khẩu xác nhận chưa giống với mật khẩu mới!";
+
+"Fault" = "Lỗi";
+"In" = "Tại";
+"At" = "Lúc";
+"Unknown" = "Chưa rõ";
+"Unknown location" = "Chưa rõ địa điểm";
+"State" = "Trạng thái";
+
+"Close" = "Đóng";
+"Delete" = "Xoá";
+"Next" = "Tiếp";
+"View more" = "Xem thêm";
+"Load more" = "Tải thêm";
+"View detail" = "Xem chi tiết";
+"Pull to refresh" = "Kéo để tải lại";
+
+"%@ settings" = "Cấu hình %@";
+"You should enable setting for %@ to use this function!" = "Bạn nên mở tính năng %@ để tận dụng chức năng này!";
+
+"Take an image" = "Chụp ảnh";
+"Take a video" = "Ghi hình";
+"Import from library" = "Lấy từ thư viện";
+"Image or Video" = "Hình ảnh hoặc Video";
+"No data available" = "Chưa có dữ liệu";
+
+"Verified" = "Đã duyệt";
+"Verifying" = "Chờ duyệt";
+"Denied" = "Không duyệt";

@@ -1,0 +1,1 @@
+ibtool MainStoryboard.storyboard --generate-strings-file file_name.strings
