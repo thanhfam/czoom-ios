@@ -5,6 +5,6 @@
       location = "group:CZoom.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:CZoom/Pods/Pods.xcodeproj">
+      location = "group:Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
